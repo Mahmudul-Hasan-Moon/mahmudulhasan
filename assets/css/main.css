@@ -55,7 +55,9 @@ h5,
 h6 {
   font-family: var(--font-primary);
 }
-
+a.stretched-link {
+    font-size: 1.3rem !important;
+}
 /*--------------------------------------------------------------
 # Sections & Section Header
 --------------------------------------------------------------*/
